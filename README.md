@@ -8,11 +8,11 @@
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/ABHINAV9496" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/abhinav-a-934696202" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -143,7 +143,7 @@ Accuracy: 96.05%
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ABHINAV9496&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -179,7 +179,7 @@ Kerala Govt Polytechnic College
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/abhinav-a-934696202">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
