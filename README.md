@@ -88,7 +88,7 @@ Full-stack ecommerce platform built with Django, DRF, React & AWS.
 ### Tech Stack
 `Django` `DRF` `React` `PostgreSQL`
 
-🔗 <a href="YOUR_REPO_LINK">Repository Link</a>
+🔗 <a href="https://github.com/ABHINAV9496/CrickGear-Ecommerce.git">Repository Link</a>
 
 </td>
 
