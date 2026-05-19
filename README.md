@@ -107,7 +107,7 @@ Backend system with multi-role authentication and optimized queries.
 ### Tech Stack
 `Python` `Django` `PostgreSQL`
 
-🔗 <a href="YOUR_REPO_LINK">Repository Link</a>
+🔗 <a href="https://github.com/ABHINAV9496/Student-Management.git">Repository Link</a>
 
 </td>
 </tr>
@@ -129,7 +129,7 @@ Accuracy: 96.05%
 ### Tech Used
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
 
-🔗 <a href="YOUR_REPO_LINK">Repository Link</a>
+🔗 <a href="https://github.com/ABHINAV9496/Airline-Customer-Satisfaction.git">Repository Link</a>
 
 ---
 
@@ -137,9 +137,9 @@ Accuracy: 96.05%
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ABHINAV9496&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV9496&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br>
 
@@ -175,7 +175,7 @@ Kerala Govt Polytechnic College
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ABHINAV9496">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
