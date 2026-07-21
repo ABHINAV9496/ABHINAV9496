@@ -14,13 +14,34 @@
 
 ## 🧭 About Me
 
-I'm a Python full-stack developer based in Kozhikode, India, currently working as a **Full-Stack Developer Intern at Bridgeon Solutions**, where I build production REST APIs with Django and DRF. I specialize in designing high-performance backend systems — from geospatial routing and real-time WebSocket infrastructure to AI-powered features backed by RAG pipelines.
+```python
+class Abhinav:
 
-- 🛰️ Building **EcoCharge**, a full-stack EV trip-planning platform with geospatial routing, real-time slot booking, and an AI trip assistant
-- 🧩 Comfortable across the stack: Django/DRF, FastAPI microservices, PostgreSQL/PostGIS, Redis, Celery, and React
-- 🤖 Experience shipping AI features: multi-tool LLM agents, RAG via pgvector, prompt injection guards, PII redaction
-- 🔐 Strong focus on secure API design — JWT/OAuth auth, role-based access control, query optimization
-- ☁️ End-to-end cloud deployment: Docker, AWS EC2/RDS, GitHub Actions CI/CD, Nginx
+    def __init__(self):
+        self.role = "Python Full-Stack Developer"
+        self.location = "Kozhikode, India"
+        self.current_company = "Bridgeon Solutions (Full-Stack Developer Intern)"
+        self.languages = ["Python", "JavaScript", "SQL"]
+        self.backend = ["Django", "DRF", "FastAPI", "Celery", "Django Channels", "WebSockets"]
+        self.frontend = ["React.js", "Vite", "Tailwind CSS", "Leaflet", "Recharts"]
+        self.database = ["PostgreSQL", "PostGIS", "pgvector", "Redis", "GeoDjango"]
+        self.cloud_devops = ["Docker", "AWS EC2", "AWS RDS", "GitHub Actions", "Nginx"]
+        self.ai_ml = ["Groq/Llama 3.3", "SentenceTransformers", "RAG via pgvector"]
+
+    def current_focus(self):
+        return [
+            "Scalable geospatial services",
+            "Real-time systems with WebSockets",
+            "AI-powered backend features",
+            "Cloud-native architecture"
+        ]
+
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something scalable!")
+
+abhinav = Abhinav()
+abhinav.say_hi()
+```
 
 <br>
 
